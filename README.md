@@ -8,6 +8,7 @@ My work lives at the intersection of **graph machine learning, anomaly detection
 
 | Repo | What it is |
 |------|------------|
+| [agentic-fraud-investigator](https://github.com/RishabhPande/agentic-fraud-investigator) | Multi-agent fraud investigation system in pure Python: triage, evidence gathering, calibrated risk scoring, and analyst-style case reports |
 | [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) | GraphSAGE + GAT from scratch in pure Python (zero dependencies) for detecting fraud rings in transaction networks |
 | [ID-document-forgery-detection-CV-](https://github.com/RishabhPande/ID-document-forgery-detection-CV-) | Computer-vision pipeline for detecting forged identity documents |
 | [Time-series-anomaly-detection](https://github.com/RishabhPande/Time-series-anomaly-detection) | Transformer-based anomaly detection on streaming time-series data |
@@ -24,6 +25,6 @@ My work lives at the intersection of **graph machine learning, anomaly detection
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rishabhpande/)
-- [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-1901-7109)
+- [ORCID](https://orcid.org/) (profile link coming soon)
 
 *Currently building in public — new commits land daily.*
