@@ -24,6 +24,6 @@ My work lives at the intersection of **graph machine learning, anomaly detection
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rishabhpande/)
-- [ORCID]([https://orcid.org/](https://orcid.org/my-orcid?orcid=0009-0004-1901-7109)) 
+- [ORCID](https://orcid.org/my-orcid?orcid=0009-0004-1901-7109)
 
 *Currently building in public — new commits land daily.*
