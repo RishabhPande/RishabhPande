@@ -1,5 +1,9 @@
 # Rishabh Pande
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhpande/)
+[![ORCID](https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1901-7109)
+![Peer Reviewer](https://img.shields.io/badge/Peer_Reviewer-IEEE_Access_%7C_KBS-00629B?style=flat-square)
+
 **Sr. Director of Data Science @ Socure** — I lead ML teams building real-time fraud-detection systems that operate at massive scale.
 
 My work lives at the intersection of **graph machine learning, anomaly detection, and production AI**: catching coordinated fraud attacks, synthetic identities, and adversarial abuse in real-time transaction streams.
@@ -18,13 +22,14 @@ My work lives at the intersection of **graph machine learning, anomaly detection
 
 ## Research & service
 
+- **Paper:** "Counterfactual Evaluation of Fraud Models under Selective and Delayed Labels" — submitted to TMLR (Transactions on Machine Learning Research), Oct 2026
 - Peer reviewer: **IEEE Access**, **Knowledge-Based Systems** (Elsevier)
 - Program Committee: **IJCNN 2027**
-- Patents in AI-driven fraud detection (US + EP applications)
+- Co-inventor on pending patent applications in AI-driven fraud detection (US + EP)
 
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rishabhpande/)
-- [ORCID](https://orcid.org/) (profile link coming soon)
+- [ORCID](https://orcid.org/0009-0004-1901-7109)
 
 *Currently building in public — new commits land daily.*
