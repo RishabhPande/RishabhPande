@@ -22,7 +22,7 @@ My work lives at the intersection of **AI, neural networks, and transformer mode
 
 ## Research & service
 
-- **Paper:** "Counterfactual Evaluation of Fraud Models under Selective and Delayed Labels" — submitted to TMLR (Transactions on Machine Learning Research), Oct 2026
+- **Paper:** "Counterfactual Evaluation of Fraud Models under Selective and Delayed Labels", submitted to TMLR, (Transactions on Machine Learning Research), Oct 2026
 - Peer reviewer: **IEEE Access**, **Knowledge-Based Systems** (Elsevier)
 - Program Committee: **IJCNN 2027**
 - Co-inventor on pending patent applications in AI-driven fraud detection (US + EP)
@@ -32,4 +32,4 @@ My work lives at the intersection of **AI, neural networks, and transformer mode
 - [LinkedIn](https://www.linkedin.com/in/rishabhpande/)
 - [ORCID](https://orcid.org/0009-0004-1901-7109)
 
-*Currently building in public — new commits land daily.*
+*Currently building in public. New commits land daily.*
