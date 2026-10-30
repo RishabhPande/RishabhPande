@@ -10,20 +10,11 @@ My work lives at the intersection of **AI, neural networks, and transformer mode
 
 ## See it run
 
-<table>
-<tr>
-<td width="58%"><a href="https://github.com/RishabhPande/agentstats"><img src="https://raw.githubusercontent.com/RishabhPande/agentstats/main/docs/leaderboard_uncertainty.png" alt="Ten repeated runs of the same 12 agent configurations on SWE-bench Verified: the top spot changes between runs"></a></td>
-<td width="42%" valign="middle"><b><a href="https://github.com/RishabhPande/agentstats">agentstats</a></b><br>Ten repeated runs of the same 12 agent configurations. Two statistically tied agents swap first place, so a single published run can crown either one. Real data from ASSERT-KTH (CC-BY-4.0).</td>
-</tr>
-<tr>
-<td width="58%"><a href="https://github.com/RishabhPande/fraud-rings"><img src="https://raw.githubusercontent.com/RishabhPande/fraud-rings/main/docs/rings.png" alt="Fraud rings found by exact address match versus normalized address match"></a></td>
-<td width="42%" valign="middle"><b><a href="https://github.com/RishabhPande/fraud-rings">fraud-rings</a></b><br>Address normalization recovers 2 of 3 planted rings that exact matching misses. The ring spread across several apartment units stays split on purpose. Synthetic data.</td>
-</tr>
-<tr>
-<td width="58%"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds"></a></td>
-<td width="42%" valign="middle"><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b><br>Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</td>
-</tr>
-</table>
+<p align="center"><a href="https://github.com/RishabhPande/agentstats"><img src="https://raw.githubusercontent.com/RishabhPande/agentstats/main/docs/leaderboard_uncertainty.png" alt="Ten repeated runs of the same 12 agent configurations on SWE-bench Verified: the top spot changes between runs" width="100%"></a><br><sub><b><a href="https://github.com/RishabhPande/agentstats">agentstats</a></b>: Ten repeated runs of the same 12 agent configurations. Two statistically tied agents swap first place, so a single published run can crown either one. Real data from ASSERT-KTH (CC-BY-4.0).</sub></p>
+
+<p align="center"><a href="https://github.com/RishabhPande/fraud-rings"><img src="https://raw.githubusercontent.com/RishabhPande/fraud-rings/main/docs/rings.png" alt="Fraud rings found by exact address match versus normalized address match" width="100%"></a><br><sub><b><a href="https://github.com/RishabhPande/fraud-rings">fraud-rings</a></b>: Address normalization recovers 2 of 3 planted rings that exact matching misses. The ring spread across several apartment units stays split on purpose. Synthetic data.</sub></p>
+
+<p align="center"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds" width="100%"></a><br><sub><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b>: Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</sub></p>
 
 ## Projects
 
@@ -53,9 +44,14 @@ My work lives at the intersection of **AI, neural networks, and transformer mode
 |------|------------|
 | [know-your-agent](https://github.com/RishabhPande/know-your-agent) | Offline prototype of scoped, session-limited, revocable agent credentials signed with Ed25519. An audit trail is planned, not built. |
 | [agent-retry-rodeo](https://github.com/RishabhPande/agent-retry-rodeo) | Local test range for agent recovery: watch "done" fail against a fault, then replay a recovery-aware baseline. |
+
+**Learning**
+
+| Repo | What it is |
+|------|------------|
 | [tiny-ml-lab](https://github.com/RishabhPande/tiny-ml-lab) | One classic ML algorithm a day, numpy only, with a workbook to fill in. |
 
-These are separate projects. They share ideas, not code: no pipeline connects them.
+Presented as separate projects; no integrated pipeline is claimed here.
 
 ## Research & service
 
