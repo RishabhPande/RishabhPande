@@ -12,9 +12,16 @@ My work lives at the intersection of **AI, neural networks, and transformer mode
 
 <table>
 <tr>
-<td width="33%" valign="top"><a href="https://github.com/RishabhPande/agentstats"><img src="https://raw.githubusercontent.com/RishabhPande/agentstats/main/docs/leaderboard_uncertainty.png" alt="Ten repeated runs of 12 agent configurations on SWE-bench Verified: the top spot changes between runs"></a><br><b><a href="https://github.com/RishabhPande/agentstats">agentstats</a></b><br>Ten repeated runs of the same 12 agent configurations. Two statistically tied agents swap first place. Real data from ASSERT-KTH (CC-BY-4.0).</td>
-<td width="33%" valign="top"><a href="https://github.com/RishabhPande/fraud-rings"><img src="https://raw.githubusercontent.com/RishabhPande/fraud-rings/main/docs/rings.png" alt="Fraud rings found by exact address match versus normalized address match"></a><br><b><a href="https://github.com/RishabhPande/fraud-rings">fraud-rings</a></b><br>Address normalization recovers 2 of 3 planted rings that exact matching misses. The ring spread across several apartment units stays split on purpose. Synthetic data.</td>
-<td width="33%" valign="top"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds"></a><br><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b><br>Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</td>
+<td width="58%"><a href="https://github.com/RishabhPande/agentstats"><img src="https://raw.githubusercontent.com/RishabhPande/agentstats/main/docs/leaderboard_uncertainty.png" alt="Ten repeated runs of the same 12 agent configurations on SWE-bench Verified: the top spot changes between runs"></a></td>
+<td width="42%" valign="middle"><b><a href="https://github.com/RishabhPande/agentstats">agentstats</a></b><br>Ten repeated runs of the same 12 agent configurations. Two statistically tied agents swap first place, so a single published run can crown either one. Real data from ASSERT-KTH (CC-BY-4.0).</td>
+</tr>
+<tr>
+<td width="58%"><a href="https://github.com/RishabhPande/fraud-rings"><img src="https://raw.githubusercontent.com/RishabhPande/fraud-rings/main/docs/rings.png" alt="Fraud rings found by exact address match versus normalized address match"></a></td>
+<td width="42%" valign="middle"><b><a href="https://github.com/RishabhPande/fraud-rings">fraud-rings</a></b><br>Address normalization recovers 2 of 3 planted rings that exact matching misses. The ring spread across several apartment units stays split on purpose. Synthetic data.</td>
+</tr>
+<tr>
+<td width="58%"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds"></a></td>
+<td width="42%" valign="middle"><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b><br>Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</td>
 </tr>
 </table>
 
