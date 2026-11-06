@@ -29,7 +29,11 @@ Everything here is synthetic data or public data. No Socure production data, no 
 
 ## This week in the lab
 
-**Week of 2 Nov 2026.** [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) added PNA, a multi-aggregator convolution, 218 tests passing. [tiny-ml-lab](https://github.com/RishabhPande/tiny-ml-lab) shipped Day 15, Hidden Markov Model. [know-your-agent](https://github.com/RishabhPande/know-your-agent) shipped its benchmark hook, closing the backlog. [fraud-eval](https://github.com/RishabhPande/fraud-eval) fixed a README quickstart import. AgentRisk is being cut to 8 pages for ICFEC 2027, deadline Dec 20, 2026, and AIML 2027, deadline Feb 26, 2027. Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
+**Week of 2 Nov 2026.** I added a sixth attack scenario to [memory-poison-lab](https://github.com/RishabhPande/memory-poison-lab): preference grafting through an untrusted memory write. The demo shows both the defense and a case where conflict-scoped repair alone isn't enough. The lab now supports a third memory backend, sqlite-vec.
+
+[Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) gained a fourth fault scenario: a rejection that explains the fix, but blind retry ignores it and reports success anyway.
+
+[GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) added four graph convolutions: ChebNet, GCNII, TAGCN and PNA, with 218 tests passing. I also synced [know-your-agent](https://github.com/RishabhPande/know-your-agent)'s citation metadata to v0.2.0 and added [stream-fraud](https://github.com/RishabhPande/stream-fraud)'s first citation file.
 
 ## Fork this if
 
