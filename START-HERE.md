@@ -16,8 +16,8 @@ That question runs through every repo here, in three layers.
 
 - **First-time visitor:** read the agentrisk headline. A standard fraud model declines 94.6 percent of legitimate agent purchases. AgentGate cuts that to 1.7 percent, and stops 92.7 percent of laundering and 70.2 percent of hijacks. Those are benchmark numbers on synthetic sessions, not production numbers.
 - **Hiring manager:** Sr. Director of Data Science at Socure, leading real-time fraud ML. The code here is the public, synthetic-data half of that work. The production half is not here, and is not claimed to be.
-- **EB1A reviewer / peer:** 16 peer reviews completed, listed on the profile README, 15 posted on Web of Science as of Nov 10, 2026. Papers are under peer review, 0 published yet, with a goal of 2 journals plus 2 conferences. Preprints are on Zenodo, and are labeled as preprints, not as peer-reviewed work.
-- **Fellow ML engineer:** everything is pure Python or numpy only where stated, with tests. GNN-fraud-ring-detection has 261 tests, fraud-eval has 25, know-your-agent has 159. Start with the quickstart in each README, it runs in under a minute.
+- **EB1A reviewer / peer:** 16 peer reviews completed, listed on the profile README, 16 posted on Web of Science as of Nov 11, 2026. Papers are under peer review, 0 published yet, with a goal of 2 journals plus 2 conferences. Preprints are on Zenodo, and are labeled as preprints, not as peer-reviewed work.
+- **Fellow ML engineer:** everything is pure Python or numpy only where stated, with tests. GNN-fraud-ring-detection has 299 tests, fraud-eval has 25, know-your-agent has 220. Start with the quickstart in each README, it runs in under a minute.
 
 ## Repo map, no overlap hidden
 
@@ -32,7 +32,7 @@ That question runs through every repo here, in three layers.
 - **agentic-fraud-investigator:** multi-agent case investigation, offline with a mock LLM.
 - **agentstats:** run-to-run variance and significance tests for agent benchmarks. A single run can crown the wrong winner.
 - **agent-retry-rodeo:** agent recovery under fault injection, with replay.
-- **memory-poison-lab:** agent memory poisoning, four attack classes, defenses, and repair. Open challenge in issue 1.
+- **memory-poison-lab:** agent memory poisoning, six attack classes, defenses, and repair. Open challenge in issue 1.
 - **tiny-ml-lab:** one classic ML algorithm a day, numpy only, workbooks to fill in.
 - **feature-contracts:** reproduction package for the feature-contracts manuscript, public datasets only.
 

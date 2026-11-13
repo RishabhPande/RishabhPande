@@ -13,7 +13,7 @@ My work lives at the intersection of **AI, neural networks, and transformer mode
 ## Start here in 30 seconds
 
 - **You want the headline result.** Read [agentrisk](https://github.com/RishabhPande/agentrisk): a standard fraud model declines 94.6 percent of legitimate agent purchases, AgentGate cuts that to 1.7 percent, and stops 92.7 percent of laundering and 70.2 percent of hijacks. Preprint on Zenodo, DOI 10.5281/zenodo.23477625.
-- **You want to run code.** Try [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection): GraphSAGE and GAT from scratch in pure Python, zero dependencies, 261 tests, Colab in 30 seconds.
+- **You want to run code.** Try [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection): GraphSAGE and GAT from scratch in pure Python, zero dependencies, 299 tests, Colab in 30 seconds.
 - **You want to evaluate a detector.** Try [fraud-eval](https://github.com/RishabhPande/fraud-eval): a 20-case smoke test today, cost-aware metrics, Hugging Face dataset and leaderboard. The 190-case version is a draft, not shipped.
 - **You want the toolkit.** Try [know-your-agent](https://github.com/RishabhPande/know-your-agent): scoped, session-limited, revocable agent credentials, signed with Ed25519, with a signed audit trail and a FastAPI demo.
 
@@ -82,11 +82,11 @@ Presented as separate projects; no integrated pipeline is claimed here.
 
 ## Research and service
 
-- **Peer review, 16 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (4), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1). 15 posted on Web of Science as of Nov 10, 2026, ESWA-D-26-39746 verdict pending. Peer reviewer badge above names two venues only, the full list is here.
+- **Peer review, 16 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (4), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1). 16 posted on Web of Science as of Nov 11, 2026. Peer reviewer badge above names two venues only, the full list is here.
 - **Papers under peer review, 0 published yet:** FATT, IEEE Access, Access-2026-52664; Selection-Aware Certification, IEEE Access, Access-2026-55371; Feature Contracts, EAAI, EAAI-26-34856; Counterfactual Evaluation, SN Computer Science transfer, no manuscript number yet. Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
 - **Revising:** Testing published state-of-the-art claims, after an editorial decision at Science and AI (Nov 9, 2026), not currently under review.
 - **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
-- **Conferences:** ICMI2027 submitted, CMT Paper ID 157; AgentRisk targeted at ICFEC 2027, Dec 20, 2026, and AIML 2027, Feb 26, 2027.
+- **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; AgentRisk targeted at ICFEC 2027, Dec 20, 2026, and AIML 2027, Feb 26, 2027.
 - Program Committee: **IJCNN 2027**
 - Co-inventor on pending patent applications in AI-driven fraud detection (US + EP). FATT, US App. 18/381,381, notice of allowance received, issue fee paid Oct 2, 2026.
 
