@@ -27,13 +27,15 @@ Everything here is synthetic data or public data. No Socure production data, no 
 
 <p align="center"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds" width="100%"></a><br><sub><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b>: Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</sub></p>
 
-## Recently in the lab
+## This week in the lab: November 13, 2026
 
-I added a sixth attack scenario to [memory-poison-lab](https://github.com/RishabhPande/memory-poison-lab): preference grafting through an untrusted memory write. The demo shows both the defense and a case where conflict-scoped repair alone isn't enough. The lab now supports a third memory backend, sqlite-vec.
+[Know Your Agent](https://github.com/RishabhPande/know-your-agent/pull/10) now authorizes delegated purchases over HTTP: verify the whole credential chain, block revoked permissions, then enforce the final agent's spending and category limits. Optional audit logging records the decision. Still a demo, not a payment service.
 
-[Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) gained a fourth fault scenario: a rejection that explains the fix, but blind retry ignores it and reports success anyway.
+[Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo/pull/11) can export before/after regression comparisons as JUnit XML for CI report viewers. Passing means no new regression, not that the agent completed its task.
 
-[GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) added seven graph convolutions: ChebNet, GCNII, TAGCN, PNA, GPR-GNN, MixHop and SIGN, with 261 tests passing. I also synced [know-your-agent](https://github.com/RishabhPande/know-your-agent)'s citation metadata to v0.2.0 and added [stream-fraud](https://github.com/RishabhPande/stream-fraud)'s first citation file.
+[Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab/pull/4) can check workbook feedback across days in one command, with per-workbook timeouts and text or JSON output. TODOs stay visible; self-check feedback is not correctness grading.
+
+I also fixed [agentstats](https://github.com/RishabhPande/agentstats/pull/6)' exact-test run planner to reject invalid significance levels instead of hanging or returning misleading run counts. Valid-input results are unchanged.
 
 ## Fork this if
 
