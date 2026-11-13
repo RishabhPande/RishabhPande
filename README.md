@@ -6,16 +6,14 @@
 
 **Sr. Director of Data Science @ Socure.** I lead ML teams building real-time fraud and risk machine learning models operating at massive scale.
 
-**The thesis of this profile:** fraud models learned that bot-like means risky. AI shopping agents are now legitimate buyers, and they look bot-like. I measure how often fraud models fail those legitimate agents, and I build the fix: verify who authorized the agent, and what it is allowed to do, before you score it.
+I work on fraud ML, agent identity and evaluation. My repos include a fault-injection test range, statistics for repeated benchmark runs, and signed credentials with delegation and revocation.
 
-My work lives at the intersection of **AI, neural networks, and transformer models**: anomaly detection, identity verification, and catching coordinated fraud attacks, synthetic identities, and adversarial abuse in real-time transaction streams.
+## Try something
 
-## Start here in 30 seconds
-
-- **You want the headline result.** Read [agentrisk](https://github.com/RishabhPande/agentrisk): a standard fraud model declines 94.6 percent of legitimate agent purchases, AgentGate cuts that to 1.7 percent, and stops 92.7 percent of laundering and 70.2 percent of hijacks. Preprint on Zenodo, DOI 10.5281/zenodo.23477625.
-- **You want to run code.** Try [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection): GraphSAGE and GAT from scratch in pure Python, zero dependencies, 299 tests, Colab in 30 seconds.
-- **You want to evaluate a detector.** Try [fraud-eval](https://github.com/RishabhPande/fraud-eval): a 20-case smoke test today, cost-aware metrics, Hugging Face dataset and leaderboard. The 190-case version is a draft, not shipped.
-- **You want the toolkit.** Try [know-your-agent](https://github.com/RishabhPande/know-your-agent): scoped, session-limited, revocable agent credentials, signed with Ed25519, with a signed audit trail and a FastAPI demo.
+- **Test an agent.** [Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo) runs your adapter against failed tools and ambiguous writes. Start with the offline replay; connecting a model is a separate step.
+- **Compare repeated runs.** [agentstats](https://github.com/RishabhPande/agentstats) checks run-to-run variance and pairwise differences. Install from Git; the PyPI namesake is unrelated.
+- **Verify delegation.** [Know Your Agent](https://github.com/RishabhPande/know-your-agent) checks signed credentials, delegation chains and revoked permissions. Demo only; no payments.
+- **Read the research.** [AgentRisk](https://github.com/RishabhPande/agentrisk) measures fraud-policy behavior on a semi-synthetic benchmark. Its rates are benchmark results, not production estimates. Preprint, not peer-reviewed.
 
 Everything here is synthetic data or public data. No Socure production data, no real transactions, no real PII, anywhere on this profile.
 
