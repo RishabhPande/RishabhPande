@@ -81,10 +81,10 @@ Presented as separate projects; no integrated pipeline is claimed here.
 ## Research and service
 
 - **Peer review, 16 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (4), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1). 16 posted on Web of Science as of Nov 11, 2026. Peer reviewer badge above names two venues only, the full list is here.
-- **Papers under peer review, 0 published yet:** FATT, IEEE Access, Access-2026-52664; Selection-Aware Certification, IEEE Access, Access-2026-55371; Feature Contracts, EAAI, EAAI-26-34856; Counterfactual Evaluation, SN Computer Science transfer, no manuscript number yet. Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
-- **Revising:** Testing published state-of-the-art claims, after an editorial decision at Science and AI (Nov 9, 2026), not currently under review.
+- **Papers under peer review, 0 published yet:** FATT, IEEE Access, Access-2026-52664; Feature Contracts, EAAI, EAAI-26-34856; Counterfactual Evaluation, SN Computer Science transfer, no manuscript number yet. Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
+- **Revising:** Selection-Aware Certification, rejected in current form at IEEE Access (Nov 14, 2026) with one invited resubmission, revision in preparation, not currently under review; Testing published state-of-the-art claims, after an editorial decision at Science and AI (Nov 9, 2026), not currently under review.
 - **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
-- **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; AgentRisk targeted at ICFEC 2027, Dec 20, 2026, and AIML 2027, Feb 26, 2027.
+- **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; CODASPY 2027 submitted, Paper ID 148; AgentRisk submitted to PoPETs 2027 Issue 3, Paper ID 42.
 - Program Committee: **IJCNN 2027**
 - Co-inventor on pending patent applications in AI-driven fraud detection (US + EP). FATT, US App. 18/381,381, notice of allowance received, issue fee paid Oct 2, 2026.
 
