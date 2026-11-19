@@ -48,7 +48,7 @@ I also fixed [agentstats](https://github.com/RishabhPande/agentstats/pull/6)' ex
 | Repo | What it is |
 |------|------------|
 | [agentstats](https://github.com/RishabhPande/agentstats) | Run-to-run variance, significance tests and minimum-runs planning for AI agent benchmarks. Install from Git (the PyPI name belongs to another package). |
-| [fraud-eval](https://github.com/RishabhPande/fraud-eval) | Open benchmark for LLM-based fraud and abuse detectors. v0.1.0 is a 20-case smoke test with a Hugging Face dataset and leaderboard. |
+| [fraud-eval](https://github.com/RishabhPande/fraud-eval) | Open benchmark for LLM-based fraud and abuse detectors. v0.1.0 is a 20-case smoke test with a Hugging Face dataset and leaderboard. Listed in awesome-ai-security-tools (merged Nov 14, 2026). |
 | [agentrisk](https://github.com/RishabhPande/agentrisk) | Benchmark and code for the preprint "Automation Is Not Intent": how fraud models treat legitimate AI shopping agents. |
 | [feature-contracts](https://github.com/RishabhPande/feature-contracts) | Reproduction package for the feature-contracts manuscript, using public datasets. |
 
@@ -80,8 +80,9 @@ Presented as separate projects; no integrated pipeline is claimed here.
 
 ## Research and service
 
-- **Peer review, 16 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (4), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1). 16 posted on Web of Science as of Nov 11, 2026. Peer reviewer badge above names two venues only, the full list is here.
-- **Papers under peer review, 0 published yet:** FATT, IEEE Access, Access-2026-52664; Feature Contracts, EAAI, EAAI-26-34856; Counterfactual Evaluation, SN Computer Science transfer, no manuscript number yet. Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
+- **Peer review, 21 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (4), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1), FAccT 2027 (5). 21 posted on Web of Science as of Nov 19, 2026. Peer reviewer badge above names two venues only, the full list is here.
+- **First acceptance:** "A Confidence Interval That Starts Above Its Own Estimate", Correspondence in JAMIA (Journal of the American Medical Informatics Association), accepted Nov 19, 2026, amiajnl-2026-021460. Accepted, not yet published.
+- **Papers under peer review:** FATT, IEEE Access, Access-2026-52664; Feature Contracts, EAAI, EAAI-26-34856; Counterfactual Evaluation, SN Computer Science, SNCS-D-26-10446; The Queue Is the Metric, Expert Systems with Applications, ESWA-D-26-49061; Frozen-Detector Failure Under Controlled Attacker-Capability Shifts, Information Sciences, INS-D-26-15738. Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
 - **Revising:** Selection-Aware Certification, rejected in current form at IEEE Access (Nov 14, 2026) with one invited resubmission, revision in preparation, not currently under review; Testing published state-of-the-art claims, after an editorial decision at Science and AI (Nov 9, 2026), not currently under review.
 - **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
 - **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; CODASPY 2027 submitted, Paper ID 148; AgentRisk submitted to PoPETs 2027 Issue 3, Paper ID 42.
