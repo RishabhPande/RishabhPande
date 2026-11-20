@@ -25,15 +25,15 @@ Everything here is synthetic data or public data. No Socure production data, no 
 
 <p align="center"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds" width="100%"></a><br><sub><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b>: Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</sub></p>
 
-## This week in the lab: November 13, 2026
+## This week in the lab: November 20, 2026
 
-[Know Your Agent](https://github.com/RishabhPande/know-your-agent/pull/10) now authorizes delegated purchases over HTTP: verify the whole credential chain, block revoked permissions, then enforce the final agent's spending and category limits. Optional audit logging records the decision. Still a demo, not a payment service.
+[fraud-eval](https://github.com/RishabhPande/fraud-eval/pull/3) now reports caught detector exceptions beside its metrics. A failed call can still count as a true negative under the existing fallback policy; the error count makes that visible. Exception text stays out of the results.
 
-[Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo/pull/11) can export before/after regression comparisons as JUnit XML for CI report viewers. Passing means no new regression, not that the agent completed its task.
+[Feature Contracts](https://github.com/RishabhPande/feature-contracts/pull/6) keeps positive-infinite evidence in its top-feature explanations instead of dropping the feature that broke the contract. Detection flags and calibration are unchanged.
 
-[Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab/pull/4) can check workbook feedback across days in one command, with per-workbook timeouts and text or JSON output. TODOs stay visible; self-check feedback is not correctness grading.
+[agentstats](https://github.com/RishabhPande/agentstats/pull/10) counts leaderboard pair flips one sampled leaderboard at a time, cutting temporary pair-array allocation. Same statistics and tie handling; pair comparisons still grow quadratically.
 
-I also fixed [agentstats](https://github.com/RishabhPande/agentstats/pull/6)' exact-test run planner to reject invalid significance levels instead of hanging or returning misleading run counts. Valid-input results are unchanged.
+I also fixed [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab/pull/6)'s spectral-clustering failure demo. It now checks the erased graph, not an arbitrary bad accuracy from a degenerate eigenspace. The clustering algorithm and learner workbook are unchanged. All 116 tests pass.
 
 ## Fork this if
 
