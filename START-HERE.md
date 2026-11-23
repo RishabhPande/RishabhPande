@@ -16,8 +16,8 @@ That question runs through every repo here, in three layers.
 
 - **First-time visitor:** read the agentrisk headline. A standard fraud model declines 94.6 percent of legitimate agent purchases. AgentGate cuts that to 1.7 percent, and stops 92.7 percent of laundering and 70.2 percent of hijacks. Those are benchmark numbers on synthetic sessions, not production numbers.
 - **Hiring manager:** Sr. Director of Data Science at Socure, leading real-time fraud ML. The code here is the public, synthetic-data half of that work. The production half is not here, and is not claimed to be.
-- **EB1A reviewer / peer:** 21 peer reviews completed, listed on the profile README, 21 posted on Web of Science as of Nov 19, 2026. First paper accepted Nov 19, 2026 (JAMIA Correspondence, accepted, not yet published), more papers under peer review, with a goal of 2 journals plus 2 conferences. Preprints are on Zenodo, and are labeled as preprints, not as peer-reviewed work.
-- **Fellow ML engineer:** everything is pure Python or numpy only where stated, with tests. GNN-fraud-ring-detection has 383 tests, fraud-eval has 25, know-your-agent has 297. Start with the quickstart in each README, it runs in under a minute.
+- **EB1A reviewer / peer:** 22 peer reviews completed, listed on the profile README, 21 posted on Web of Science as of Nov 22, 2026, with one claim in process. First paper accepted Nov 19, 2026 (JAMIA Correspondence, accepted, not yet published), more papers under peer review, with a goal of 2 journals plus 2 conferences. Preprints are on Zenodo, and are labeled as preprints, not as peer-reviewed work.
+- **Fellow ML engineer:** everything is pure Python or numpy only where stated, with tests. GNN-fraud-ring-detection has 404 tests, fraud-eval has 25, know-your-agent has 314. Start with the quickstart in each README, it runs in under a minute.
 
 ## Repo map, no overlap hidden
 
@@ -41,7 +41,7 @@ Older repos from 2018, UFC data analysis, churn, diabetes, breast cancer, and ot
 ## What is not here
 
 - No Socure production data, no real transactions, no real PII.
-- No peer-reviewed paper published yet, as of Nov 19, 2026. First acceptance landed Nov 19, 2026 (JAMIA Correspondence); publication is pending. Preprints and submissions are labeled as such.
+- No peer-reviewed paper published yet, as of Nov 23, 2026. First acceptance landed Nov 19, 2026 (JAMIA Correspondence); publication is pending. Preprints and submissions are labeled as such.
 - No stars bought, no followers bought, no bots. Stars are 0 on the six tracked repos as of Nov 1, 2026, except stream-fraud with 1 star. That is the honest baseline.
 
 ## Consistency
