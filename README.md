@@ -87,7 +87,7 @@ Presented as separate projects; no integrated pipeline is claimed here.
 - **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
 - **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; CODASPY 2027 submitted, Paper ID 148; AgentRisk submitted to PoPETs 2027 Issue 3, Paper ID 42; Feature Contracts accepted at IEEE CCWC 2027, EDAS Paper ID 1571381470, accepted Nov 23, 2026.
 - Program Committee: **IJCNN 2027**
-- Co-inventor on pending patent applications in AI-driven fraud detection (US + EP). FATT, US App. 18/381,381, notice of allowance received, issue fee paid Oct 2, 2026.
+- Co-inventor on U.S. Patent No. 12,810,299 (FATT: detecting and mitigating real-time fraud attacks using aggregated consortium data), granted November 24, 2026, plus further pending applications in AI-driven fraud detection (US + EP).
 
 ## Connect
 
