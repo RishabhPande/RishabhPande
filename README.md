@@ -15,10 +15,10 @@
 
 **Sr. Director of Data Science at Socure.** I was one of the first data scientists on my team, and I now head Data Science for it. My team builds the models that decide, in a fraction of a second, whether the person opening an account or moving money is real and is who they claim to be. My side of AI is the adversarial one: stopping the fraud rings and synthetic identities that now use AI themselves.
 
-- Co-inventor on U.S. Patent No. 12,810,299, granted November 24, 2026: detecting and mitigating real-time fraud attacks using aggregated consortium data.
-- Correspondence accepted at JAMIA, the Journal of the American Medical Informatics Association, November 2026.
+- Co-inventor on [U.S. Patent No. 12,810,299](https://patents.google.com/patent/US12810299B2), granted November 24, 2026: detecting and mitigating real-time fraud attacks using aggregated consortium data.
+- Correspondence accepted at [JAMIA](https://academic.oup.com/jamia), the Journal of the American Medical Informatics Association, November 2026.
 - 27 peer reviews completed for journals and conferences including IEEE Access, Knowledge-Based Systems, Pattern Recognition, FAccT and WWW; 22 verified on Web of Science. Program Committee, IJCNN 2027.
-- Op-ed on AI fraud checks published in The Record, USA TODAY Network, November 24, 2026.
+- Op-ed on AI fraud checks published in [The Record, USA TODAY Network](https://www.northjersey.com/story/opinion/2026/11/24/nj-consumers-need-protections-faulty-artificial-intelligence-opinion/92849919007/), November 24, 2026.
 
 I work on fraud ML, agent identity and evaluation. My repos include a fault-injection test range, statistics for repeated benchmark runs, and signed credentials with delegation and revocation.
 
@@ -107,7 +107,7 @@ Presented as separate projects; no integrated pipeline is claimed here.
 
 | Stats | Languages |
 |-------|-----------|
-| <img src="https://github-readme-stats.vercel.app/api?username=RishabhPande&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark&rank_icon=percentile" alt="Rishabh Pande GitHub stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhPande&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=RishabhPande&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark&rank_icon=percentile&hide=stars" alt="Rishabh Pande GitHub stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhPande&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages"/> |
 
 ## Research and service
 
@@ -118,7 +118,7 @@ Presented as separate projects; no integrated pipeline is claimed here.
 - **Revising:** Testing published state-of-the-art claims, after an editorial decision at Science and AI (Nov 9, 2026), not currently under review.
 - **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
 - **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; CODASPY 2027 submitted, Paper ID 148; AgentRisk submitted to PoPETs 2027 Issue 3, Paper ID 42; Feature Contracts accepted at IEEE CCWC 2027, EDAS Paper ID 1571381470, accepted Nov 23, 2026.
-- **In the press:** Op-ed on AI fraud checks, The Record (USA TODAY Network), published Nov 24, 2026.
+- **In the press:** Op-ed on AI fraud checks, [The Record (USA TODAY Network)](https://www.northjersey.com/story/opinion/2026/11/24/nj-consumers-need-protections-faulty-artificial-intelligence-opinion/92849919007/), published Nov 24, 2026.
 
 ### Peer review and service
 
