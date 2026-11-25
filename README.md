@@ -1,12 +1,28 @@
-# Rishabh Pande
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,55:203A43,100:2C5364&height=220&section=header&text=Rishabh%20Pande&fontSize=56&fontColor=ffffff&animation=fadeIn&desc=Fraud%20and%20identity%20machine%20learning&descAlignY=62" width="100%" alt="Rishabh Pande: fraud and identity machine learning"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabhpande/)
-[![ORCID](https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1901-7109)
-![Peer Reviewer](https://img.shields.io/badge/Peer_Reviewer-IEEE_Access_%7C_KBS-00629B?style=flat-square)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=2C9DB5&center=true&vCenter=true&width=900&lines=Sr.+Director+of+Data+Science;Fraud+and+identity+ML+in+production;Co-inventor+on+a+granted+U.S.+patent;27+peer+reviews+completed" alt="Sr. Director of Data Science. Fraud and identity ML in production. Co-inventor on a granted U.S. patent. 27 peer reviews completed."/>
+</p>
 
-**Sr. Director of Data Science @ Socure.** I lead ML teams building real-time fraud and risk machine learning models operating at massive scale.
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabhpande/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://orcid.org/0009-0004-1901-7109"><img src="https://img.shields.io/badge/ORCID-iD-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/></a>
+  <a href="https://scholar.google.com/citations?user=wt7gBXEAAAAJ"><img src="https://img.shields.io/badge/Google-Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a>
+  <a href="https://huggingface.co/RishabhPande"><img src="https://img.shields.io/badge/Hugging_Face-Profile-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+  <a href="https://www.webofscience.com/wos/author/record/QUV-3163-2026"><img src="https://img.shields.io/badge/Web_of_Science-ResearcherID-5E33BF?style=flat-square" alt="Web of Science ResearcherID"/></a>
+  <a href="mailto:rish.pande@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+**Sr. Director of Data Science at Socure.** I was one of the first data scientists on my team, and I now head Data Science for it. My team builds the models that decide, in a fraction of a second, whether the person opening an account or moving money is real and is who they claim to be. My side of AI is the adversarial one: stopping the fraud rings and synthetic identities that now use AI themselves.
+
+- Co-inventor on U.S. Patent No. 12,810,299, granted November 24, 2026: detecting and mitigating real-time fraud attacks using aggregated consortium data.
+- Correspondence accepted at JAMIA, the Journal of the American Medical Informatics Association, November 2026.
+- 27 peer reviews completed for journals and conferences including IEEE Access, Knowledge-Based Systems, Pattern Recognition, FAccT and WWW; 22 verified on Web of Science. Program Committee, IJCNN 2027.
+- Op-ed on AI fraud checks published in The Record, USA TODAY Network, November 24, 2026.
 
 I work on fraud ML, agent identity and evaluation. My repos include a fault-injection test range, statistics for repeated benchmark runs, and signed credentials with delegation and revocation.
+
+Everything here is synthetic data or public data. No Socure production data, no real transactions, no real PII, anywhere on this profile.
 
 ## Try something
 
@@ -15,7 +31,13 @@ I work on fraud ML, agent identity and evaluation. My repos include a fault-inje
 - **Verify delegation.** [Know Your Agent](https://github.com/RishabhPande/know-your-agent) checks signed credentials, delegation chains and revoked permissions. Demo only; no payments.
 - **Read the research.** [AgentRisk](https://github.com/RishabhPande/agentrisk) measures fraud-policy behavior on a semi-synthetic benchmark. Its rates are benchmark results, not production estimates. Preprint, not peer-reviewed.
 
-Everything here is synthetic data or public data. No Socure production data, no real transactions, no real PII, anywhere on this profile.
+## Featured projects
+
+<p align="center">
+  <a href="https://github.com/RishabhPande/fraud-eval"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhPande&repo=fraud-eval&theme=onedark&hide_border=true" alt="fraud-eval repository"/></a>
+  <a href="https://github.com/RishabhPande/GNN-fraud-ring-detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhPande&repo=GNN-fraud-ring-detection&theme=onedark&hide_border=true" alt="GNN-fraud-ring-detection repository"/></a>
+  <a href="https://github.com/RishabhPande/know-your-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhPande&repo=know-your-agent&theme=onedark&hide_border=true" alt="know-your-agent repository"/></a>
+</p>
 
 ## See it run
 
@@ -41,7 +63,8 @@ I also fixed [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab/pull/6)'s
 - **... you want a workbook, not a gallery.** [tiny-ml-lab](https://github.com/RishabhPande/tiny-ml-lab) is built to be forked: fill in each workbook.py, check days off in your own PROGRESS.md, add a row to the SHOWCASE.md hall of fame, and vote the next algorithm up the queue in REQUESTS.md.
 - **... you want an unclaimed task.** [Time-series-anomaly-detection](https://github.com/RishabhPande/Time-series-anomaly-detection) has four on its roadmap: multivariate series with cross-channel attention, Informer-style sparse attention for long windows, streaming inference without re-encoding the window, and learned threshold calibration. Pick one and open a PR.
 
-## Projects
+<details>
+<summary><b>All projects</b></summary>
 
 **Evaluation, statistics and benchmarks**
 
@@ -78,15 +101,32 @@ I also fixed [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab/pull/6)'s
 
 Presented as separate projects; no integrated pipeline is claimed here.
 
+</details>
+
+## GitHub activity
+
+| Stats | Languages |
+|-------|-----------|
+| <img src="https://github-readme-stats.vercel.app/api?username=RishabhPande&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=onedark&rank_icon=percentile" alt="Rishabh Pande GitHub stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhPande&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages"/> |
+
 ## Research and service
 
-- **Peer review, 27 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (5), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1), FAccT 2027 (5), plus conference and workshop reviews for WWW 2027, SPF-LLM at AAAI 2027 and FinFM 2027. 22 posted on Web of Science as of Nov 25, 2026. Peer reviewer badge above names two venues only, the full list is here.
+### Publications and papers
+
 - **First acceptance:** "A Confidence Interval That Starts Above Its Own Estimate", Correspondence in JAMIA (Journal of the American Medical Informatics Association), accepted Nov 19, 2026, amiajnl-2026-021460. Accepted, not yet published.
 - **Papers under peer review:** FATT, IEEE Access, Access-2026-52664; Feature Contracts, EAAI, EAAI-26-34856; Counterfactual Evaluation, SN Computer Science, SNCS-D-26-10446; Same Transactions, Different Frauds, ACM Transactions on Knowledge Discovery from Data, TKDD-2026-11-0976; Frozen-Detector Failure Under Controlled Attacker-Capability Shifts, Information Sciences, INS-D-26-15738; Selection-Aware Certification, IEEE Access, Access-2026-60783 (invited resubmission, in review from Nov 24, 2026). Goal: 2 peer-reviewed journals plus 2 peer-reviewed conferences.
 - **Revising:** Testing published state-of-the-art claims, after an editorial decision at Science and AI (Nov 9, 2026), not currently under review.
 - **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
 - **Conferences:** ICMI2027 submitted, CMT Paper ID 157; SAI Computing Conference 2027 submitted, Paper ID COMPUTING-2027-105; CODASPY 2027 submitted, Paper ID 148; AgentRisk submitted to PoPETs 2027 Issue 3, Paper ID 42; Feature Contracts accepted at IEEE CCWC 2027, EDAS Paper ID 1571381470, accepted Nov 23, 2026.
+- **In the press:** Op-ed on AI fraud checks, The Record (USA TODAY Network), published Nov 24, 2026.
+
+### Peer review and service
+
+- **Peer review, 27 completed:** IEEE Access (2), Knowledge-Based Systems (4), Pattern Recognition (5), IEEE Transactions on Big Data (1), Expert Systems with Applications (2), Data Mining and Knowledge Discovery (1), Computers and Security (1), ACM Transactions on Knowledge Discovery from Data (1), FAccT 2027 (5), plus conference and workshop reviews for WWW 2027, SPF-LLM at AAAI 2027 and FinFM 2027. 22 posted on Web of Science as of Nov 25, 2026.
 - Program Committee: **IJCNN 2027**
+
+### Patents
+
 - Co-inventor on U.S. Patent No. 12,810,299 (FATT: detecting and mitigating real-time fraud attacks using aggregated consortium data), granted November 24, 2026, plus further pending applications in AI-driven fraud detection (US + EP).
 
 ## Connect
@@ -100,3 +140,5 @@ Presented as separate projects; no integrated pipeline is claimed here.
 Name on all of them: Rishabh Pande. ORCID iD wherever a field exists: 0009-0004-1901-7109. Paper bylines use Independent Researcher, employment is Socure, that difference is deliberate.
 
 *Currently building in public. New commits land daily.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,55:203A43,100:2C5364&height=120&section=footer" width="100%" alt=""/>
