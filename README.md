@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,45:0A2E3F,100:1B6A85&height=240&section=header&text=Rishabh%20Pande&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Curious%20about%20data.%20Obsessed%20with%20AI.&descAlignY=63" width="100%" alt="Rishabh Pande"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,45:0A2E3F,100:1B6A85&height=240&section=header&text=Rishabh%20Pande&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Working%20with%20data%20and%20AI&descAlignY=63" width="100%" alt="Rishabh Pande"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1100&color=2C9DB5&center=true&vCenter=true&width=1000&lines=Curious+about+data.+Obsessed+with+AI.;The+intelligence+explosion+is+not+coming.+It+is+compiling.;Agents+are+arriving.+I+build+the+tests+they+must+pass.;Be+patient+with+results.+Impatient+with+action.;Nobody+is+coming.+That+is+the+good+news.;Stay+curious.+Ship+daily.+Fail+better." alt="Curious about data. Obsessed with AI. The intelligence explosion is not coming, it is compiling."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1100&color=2C9DB5&center=true&vCenter=true&width=1000&lines=I+test+how+agents+fail.;Fraud+models%2C+drift%2C+and+graphs.;Asking+questions+until+they+hold+up.;One+ML+algorithm+a+day%2C+in+numpy.;Synthetic+data+only.+No+production+systems." alt="I test how agents fail. Fraud models, drift, and graphs. Asking questions until they hold up."/>
 </p>
 
 <p align="center">
@@ -13,61 +13,20 @@
   <a href="mailto:rish.pande@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/creed-stay_curious-0F2027?style=flat-square" alt="Creed: stay curious"/>
-  <img src="https://img.shields.io/badge/method-fail_better-203A43?style=flat-square" alt="Method: fail better"/>
-  <img src="https://img.shields.io/badge/rule-ship_daily-2C5364?style=flat-square" alt="Rule: ship daily"/>
-  <img src="https://img.shields.io/badge/status-no_finish_line-1B6A85?style=flat-square" alt="Status: no finish line"/>
-</p>
+## About
 
-## No title. A question instead.
+I work with data and AI. Most of what I build here is about finding out how things fail: fraud detectors, AI agents, and the benchmarks we grade them with.
 
-Titles are lagging indicators, so there is none here. What there is: a question that will not leave me alone. What happens when machines start making decisions, and then start building the machines that make the decisions?
+Fraud detection is the problem I keep coming back to. Who is on the other side of a transaction, and how sure are we. Lately that includes agents, software that opens accounts, moves money, and acts for people. I would rather test these systems in small public projects than trust them on faith.
 
-We are at the start of an intelligence explosion. Not the science fiction kind, a single flash and a new world. The compounding kind. Models training models. Agents hiring agents. Synthetic minds generating the data that trains the next synthetic minds. Things are going to get crazy, because they already are, quietly, in production systems, one deployment at a time.
+Everything here runs on synthetic or public data. No production data, no real transactions, no real people.
 
-The only sane response is to stay curious, stay in the arena, and build the instruments: the tests, the measurements, the tripwires, the proofs. That is what this page is. A lab notebook from the foothills of the explosion.
+> "I have no special talent. I am only passionately curious."
+> - Albert Einstein
 
-My corner of it is the adversarial one: fraud, identity, and the question of who, or what, is actually on the other side of a transaction. Everything here runs on synthetic or public data. No production data, no real transactions, no real people, anywhere on this profile.
+## Projects
 
-## The creed
-
-Read them in order. They are the operating system.
-
-<table>
-<tr>
-<td width="50%" valign="top"><i>"Nothing in the world can take the place of persistence. Talent will not. Genius will not. Education will not. Persistence and determination alone are omnipotent."</i><br><sub>CALVIN COOLIDGE</sub></td>
-<td width="50%" valign="top"><i>"Genius is one percent inspiration and ninety-nine percent perspiration."</i><br><sub>THOMAS EDISON</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><i>"I have no special talent. I am only passionately curious."</i><br><sub>ALBERT EINSTEIN</sub></td>
-<td width="50%" valign="top"><i>"Nothing in life is to be feared. It is only to be understood. Now is the time to understand more, so that we may fear less."</i><br><sub>MARIE CURIE</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><i>"Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."</i><br><sub>SAMUEL BECKETT</sub></td>
-<td width="50%" valign="top"><i>"Be patient with results. Impatient with action."</i><br><sub>RISHABH PANDE</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><i>"Mastery is just the basics, repeated without mercy."</i><br><sub>RISHABH PANDE</sub></td>
-<td width="50%" valign="top"><i>"Nobody is coming. That is the good news."</i><br><sub>RISHABH PANDE</sub></td>
-</tr>
-</table>
-
-## Dispatches from the intelligence explosion
-
-Field notes on what is actually arriving, and what I am building while it does:
-
-- **Agents are getting identities.** They are about to open accounts, move money, and sign on your behalf. So who verifies the agent? See [know-your-agent](https://github.com/RishabhPande/know-your-agent).
-- **Agents are getting evaluated, badly.** Leaderboards run once and crown whoever got lucky. See [agentstats](https://github.com/RishabhPande/agentstats) and [agentrisk](https://github.com/RishabhPande/agentrisk).
-- **Agents are getting memories, and memories can be poisoned.** Corrupt the memory, and you never have to corrupt the mind. See [memory-poison-lab](https://github.com/RishabhPande/memory-poison-lab).
-- **Agents fail quietly and retry loudly.** Persistence without memory is just expensive stubbornness. See [agent-retry-rodeo](https://github.com/RishabhPande/agent-retry-rodeo).
-- **Fraud is becoming a graph problem fought by graphs.** Rings hide in transaction networks; graph networks go in after them. See [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection).
-- **Detectors lie politely. Benchmarks should not.** See [fraud-eval](https://github.com/RishabhPande/fraud-eval).
-- **The basics compound.** One algorithm a day, mastered slowly, beats a hundred shallow tours. See [tiny-ml-lab](https://github.com/RishabhPande/tiny-ml-lab).
-
-## The lab
-
-Eight running experiments. Each one is a question with code attached.
+The eight I spend the most time on.
 
 <p align="center">
   <a href="https://github.com/RishabhPande/fraud-eval"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhPande&repo=fraud-eval&theme=onedark&hide_border=true" alt="fraud-eval repository"/></a>
@@ -82,16 +41,16 @@ Eight running experiments. Each one is a question with code attached.
   <a href="https://github.com/RishabhPande/agentstats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RishabhPande&repo=agentstats&theme=onedark&hide_border=true" alt="agentstats repository"/></a>
 </p>
 
-| Experiment | Field note |
-|------------|------------|
-| [fraud-eval](https://github.com/RishabhPande/fraud-eval) | The benchmark. Open tests for LLM-based fraud and abuse detectors, because a detector that cannot show its work is just a rumor. v0.1.0 is a 20-case smoke test with a Hugging Face dataset and a leaderboard. Listed in awesome-ai-security-tools (merged Nov 14, 2026). |
-| [know-your-agent](https://github.com/RishabhPande/know-your-agent) | Identity checks for bots. Scoped, session-limited, revocable credentials signed with Ed25519, delegation chains, and a signed hash-chained audit trail, because "the AI did it" is not an audit trail. v0.2.0, with a FastAPI demo. |
-| [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) | Fraud rings are graphs, so fight them with graphs. GraphSAGE, GAT and other graph networks built from scratch in pure Python, zero dependencies, hunting rings in synthetic transaction networks. |
-| [agentrisk](https://github.com/RishabhPande/agentrisk) | The benchmark behind the preprint "Automation Is Not Intent": how fraud models treat legitimate AI shopping agents. Agents rarely fail loudly. They fail confidently. Its rates are benchmark results, not production estimates. Preprint, not peer-reviewed. |
-| [memory-poison-lab](https://github.com/RishabhPande/memory-poison-lab) | A test range for poisoning the long-term memory of agents and watching the behavior bend. If an agent remembers it, an attacker can write it. |
-| [agentstats](https://github.com/RishabhPande/agentstats) | You cannot trust what you refuse to measure. Run-to-run variance, significance tests and minimum-runs planning for AI agent benchmarks. Install from Git; the PyPI namesake is unrelated. |
-| [tiny-ml-lab](https://github.com/RishabhPande/tiny-ml-lab) | One classic ML algorithm a day, numpy only, with a workbook to fill in. Built to be forked: finish the workbook, check days off in your own PROGRESS.md, join the SHOWCASE.md hall of fame. |
-| [agent-retry-rodeo](https://github.com/RishabhPande/agent-retry-rodeo) | A local test range for agent recovery: run your adapter against failed tools and ambiguous writes, watch "done" fail against a fault, then replay a recovery-aware baseline. Start with the offline replay; connecting a model is a separate step. |
+| Repo | What it does |
+|------|--------------|
+| [fraud-eval](https://github.com/RishabhPande/fraud-eval) | Open benchmark for LLM-based fraud and abuse detectors. v0.1.0 is a 20-case smoke test with a Hugging Face dataset and a leaderboard. Listed in awesome-ai-security-tools (merged Nov 14, 2026). |
+| [know-your-agent](https://github.com/RishabhPande/know-your-agent) | Identity checks for AI agents. Scoped, session-limited, revocable credentials signed with Ed25519, delegation chains, and a signed hash-chained audit trail. v0.2.0, with a FastAPI demo. |
+| [GNN-fraud-ring-detection](https://github.com/RishabhPande/GNN-fraud-ring-detection) | Graph neural networks (GraphSAGE, GAT, and others) built from scratch in pure Python, no dependencies, applied to fraud rings in synthetic transaction networks. |
+| [agentrisk](https://github.com/RishabhPande/agentrisk) | Benchmark behind the preprint "Automation Is Not Intent": how fraud models treat legitimate AI shopping agents. The rates are benchmark results, not production estimates. Preprint, not peer-reviewed. |
+| [memory-poison-lab](https://github.com/RishabhPande/memory-poison-lab) | A test range for poisoning the long-term memory of agents and measuring how their behavior changes afterward. |
+| [agentstats](https://github.com/RishabhPande/agentstats) | Run-to-run variance, significance tests, and minimum-runs planning for AI agent benchmarks. Install from Git; the PyPI namesake is unrelated. |
+| [tiny-ml-lab](https://github.com/RishabhPande/tiny-ml-lab) | One classic ML algorithm a day, numpy only, with a workbook to fill in. Built to be forked: finish the workbook, check days off in your own PROGRESS.md, add a row to SHOWCASE.md. |
+| [agent-retry-rodeo](https://github.com/RishabhPande/agent-retry-rodeo) | A local test range for agent recovery: run an adapter against failed tools and ambiguous writes, then replay a recovery-aware baseline. Start with the offline replay; connecting a model is a separate step. |
 
 ## See it run
 
@@ -158,7 +117,7 @@ Presented as separate projects; no integrated pipeline is claimed here.
 
 </details>
 
-## Telemetry
+## Stats
 
 | Stats | Languages |
 |-------|-----------|
@@ -172,11 +131,7 @@ Presented as separate projects; no integrated pipeline is claimed here.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabhPande&bg_color=0F2027&line=2C9DB5&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RishabhPande&theme=onedark&no-bg=true&margin-w=4" alt="GitHub profile trophies"/>
-</p>
-
-## Papers and peer review, quietly
+## Papers and peer review
 
 - **Peer review, 27 completed:** IEEE Access, Knowledge-Based Systems, Pattern Recognition, IEEE Transactions on Big Data, Expert Systems with Applications, Data Mining and Knowledge Discovery, Computers and Security, ACM Transactions on Knowledge Discovery from Data, FAccT 2027, plus conference and workshop reviews for WWW 2027, SPF-LLM at AAAI 2027 and FinFM 2027. 22 verified on Web of Science. Program Committee, IJCNN 2027.
 - **Papers under peer review:** FATT (IEEE Access), Feature Contracts (EAAI), Counterfactual Evaluation (SN Computer Science), Same Transactions, Different Frauds (ACM TKDD), Frozen-Detector Failure Under Controlled Attacker-Capability Shifts (Information Sciences), Selection-Aware Certification (IEEE Access, invited resubmission).
@@ -193,12 +148,8 @@ Presented as separate projects; no integrated pipeline is claimed here.
 
 Name on all of them: Rishabh Pande. ORCID iD wherever a field exists: 0009-0004-1901-7109.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishabhPande&label=profile%20views&color=2C9DB5&style=flat-square" alt="Profile views"/>
-</p>
+<p align="center"><i>Be patient with results. Impatient with action.</i></p>
 
 <p align="center"><sub>Receipts, kept quiet: co-inventor on <a href="https://patents.google.com/patent/US12810299B2">U.S. Patent No. 12,810,299</a>, granted November 24, 2026. Author, Correspondence in <a href="https://academic.oup.com/jamia">JAMIA</a>, accepted November 2026.</sub></p>
-
-*Currently building in public. New commits land daily. Stay curious.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02040A,45:0A2E3F,100:1B6A85&height=120&section=footer" width="100%" alt=""/>
