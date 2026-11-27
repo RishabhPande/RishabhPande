@@ -60,15 +60,15 @@ The eight I spend the most time on.
 
 <p align="center"><a href="https://github.com/RishabhPande/stream-fraud"><img src="https://raw.githubusercontent.com/RishabhPande/stream-fraud/main/docs/drift_replay.png" alt="Drift replay: rolling score, PSI and KS statistics, and alarm delays over 20 seeds" width="100%"></a><br><sub><b><a href="https://github.com/RishabhPande/stream-fraud">stream-fraud</a></b>: Drift replay over 20 seeds. PSI alarmed earlier than a KS test here, and neither is false-alarm free. Synthetic data.</sub></p>
 
-## This week in the lab: November 20, 2026
+## This week in the lab: November 27, 2026
 
-[fraud-eval](https://github.com/RishabhPande/fraud-eval/pull/3) now reports caught detector exceptions beside its metrics. A failed call can still count as a true negative under the existing fallback policy; the error count makes that visible. Exception text stays out of the results.
+[Know Your Agent](https://github.com/RishabhPande/know-your-agent/pull/11) had a race in its replay store: two callers could both pass the "have I seen this?" check for the same credential and presentation, and both get accepted. A lock now covers check-and-record, and three regression tests that failed before the fix pass. It protects one process only. Separate merchant processes still do not share replay state.
 
-[Feature Contracts](https://github.com/RishabhPande/feature-contracts/pull/6) keeps positive-infinite evidence in its top-feature explanations instead of dropping the feature that broke the contract. Detection flags and calibration are unchanged.
+[Know Your Agent](https://github.com/RishabhPande/know-your-agent/pull/12) also runs demo.py in CI now and checks every outcome the README documents, so the quickstart can't drift from what the code does.
 
-[agentstats](https://github.com/RishabhPande/agentstats/pull/10) counts leaderboard pair flips one sampled leaderboard at a time, cutting temporary pair-array allocation. Same statistics and tie handling; pair comparisons still grow quadratically.
+[Watchlist Diff](https://github.com/RishabhPande/watchlist-diff/pull/11) gained seven delisting fixtures for the October 21 OFAC removals, taking it from 67 to 74. Each one only says "not on the SDN List as of that date per the notice". It is not a clearance.
 
-I also fixed [Tiny ML Lab](https://github.com/RishabhPande/tiny-ml-lab/pull/6)'s spectral-clustering failure demo. It now checks the erased graph, not an arbitrary bad accuracy from a degenerate eigenspace. The clustering algorithm and learner workbook are unchanged. All 116 tests pass.
+[Agent Retry Rodeo](https://github.com/RishabhPande/agent-retry-rodeo/pull/15) has a [mapping doc and offline script](https://github.com/RishabhPande/agent-retry-rodeo/blob/main/docs/idempotencybench-mapping.md) that line up its lost-acknowledgement case with the IdempotencyBench duplicate count. The two scripted baselines give 1 duplicate for naive retry and 0 for verify-then-recover, and the same counts come out of IdempotencyBench's own ledger. Scripted baselines, not LLM results.
 
 ## Fork this if
 
