@@ -134,7 +134,8 @@ Presented as separate projects; no integrated pipeline is claimed here.
 ## Papers and peer review
 
 - **Peer review, 29 completed:** IEEE Access, Knowledge-Based Systems, Pattern Recognition, IEEE Transactions on Big Data, Expert Systems with Applications, Data Mining and Knowledge Discovery, Computers and Security, ACM Transactions on Knowledge Discovery from Data, FAccT 2027, plus conference and workshop reviews for WWW 2027, SPF-LLM at AAAI 2027 and FinFM 2027. 22 verified on Web of Science. Program Committee, IJCNN 2027.
-- **Papers under peer review:** FATT (IEEE Access, invited resubmission), Feature Contracts (EAAI), Counterfactual Evaluation (SN Computer Science), Same Transactions, Different Frauds (ACM TKDD), Frozen-Detector Failure Under Controlled Attacker-Capability Shifts (Information Sciences), Selection-Aware Certification (IEEE Access, invited resubmission).
+- **Papers under peer review:** Feature Contracts (EAAI), Counterfactual Evaluation (SN Computer Science), Same Transactions, Different Frauds (ACM TKDD), Frozen-Detector Failure Under Controlled Attacker-Capability Shifts (Information Sciences), Selection-Aware Certification (IEEE Access, invited resubmission), Most of the Personal Data Is Dead Weight at the Margin (Expert Systems with Applications).
+- **Invited resubmission in preparation:** FATT (IEEE Access), rejected in current form Nov 27, 2026, with one invited resubmission.
 - **Accepted:** Feature Contracts at IEEE CCWC 2027. **Preprints, not peer-reviewed:** AgentRisk, Zenodo DOI 10.5281/zenodo.23477625; fraud-eval, Zenodo DOI 10.5281/zenodo.23695132.
 
 ## Writing
